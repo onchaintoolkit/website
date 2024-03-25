@@ -7397,7 +7397,8 @@
             "use strict";
             var e = n(791),
                 t = n(250),
-                r = n.p + "static/media/img_2.6a6616179a1400d47109.png",
+                r = n.p + "static/media/img_2NEW.png",
+                IMGXX = n.p + "static/media/TV.jpg",
                 a = n.p + "static/media/line_3.2e77ae3598615d6cc440.png",
                 l = n(184);
 
@@ -7407,7 +7408,7 @@
                     children: [(0, l.jsx)("img", {
                         src: a,
                         alt: "line",
-                        className: "absolute left-0 right-0 -mt-12"
+                        className: "absolute left-0 right-0 -mt-12",
                     }), (0, l.jsxs)("div", {
                         className: "container text-white-100 mx-auto lg:px-20 px-5 relative z-20",
                         children: [(0, l.jsxs)("div", {
@@ -7750,10 +7751,10 @@
                                         className: "lg:w-1/2 w-full space-y-8",
                                         children: [(0, l.jsx)("h2", {
                                             className: "md:text-6xl text-3xl font-extrabold text-gradient",
-                                            children: "Our Super Power"
+                                            children: "Take advantage of our AI assistants'"
                                         }), (0, l.jsx)("p", {
                                             className: "md:text-2xl text-xl font-semibold text-purple-100",
-                                            children: "With the multichain trading capability, users can access and trade assets across various blockchain networks seamlessly, saving time and effort"
+                                            children: "advanced language comprehension and real-time analytics for personalized financial guidance and accurate insights into the cryptocurrency market."
                                         })]
                                     }), (0, l.jsxs)("div", {
                                         "data-aos": "zoom-in",
@@ -7779,7 +7780,7 @@
                                         className: "lg:w-1/2 w-full",
                                         children: (0, l.jsx)("p", {
                                             className: "md:text-3xl text-xl font-medium text-purple-100",
-                                            children: "Whether you're a seasoned trader or insightful analyst the Onchain Toolkit provides the resources you need to succeed in the rapidly growing world of decentralized finance"
+                                            children: "𝗢𝗻𝗰𝗵𝗮𝗶𝗻 𝗧𝗼𝗼𝗹𝗸𝗶𝘁 is more than just a tool it empowers users to navigate the complexities of decentralized exchanges with confidence and intelligence."
                                         })
                                     }), (0, l.jsx)("div", {
                                         "data-aos": "zoom-in",
@@ -7889,20 +7890,50 @@
                                     className: "lg:my-28 my-8 text-center lg:w-9/12 flex mx-auto",
                                     children: (0, l.jsx)("p", {
                                         className: "md:text-4xl text52xl font-semibold text-purple-100",
-                                        children: "Your essential tool for navigating the decentralized finance (DeFi) landscape"
+                                        children: "Your essential platform for navigating the decentralized finance (DeFi) landscape"
                                     })
-                                }), (0, l.jsx)("div", {
+                                }), 
+                                (0, l.jsx)("div", {
                                     "data-aos": "fade-up",
-                                    className: "lg:py-28 p-6 text-center border-8 border-purple-100 rounded-3xl",
+                                    className: "",
                                     children: (0, l.jsx)("p", {
-                                        "data-aos": "fade-in",
-                                        "data-aos-delay": "300",
-                                        className: "md:text-4xl text-lg font-semibold text-purple-50 lg:w-9/12 flex mx-auto",
-                                        children: "Onchain Toolkit is more than just a tool it empowers users to navigate the complexities of decentralized exchanges with confidence and intelligence."
+                                        
                                     })
                                 })]
                             })
-                        }), (0, l.jsxs)("div", {
+                        }),
+
+                        
+                        
+                        (0, l.jsxs)("div", {
+                            className: "lg:flex block justify-between items-center flex-row-reverse gap-x-12 lg:py-20 py-6 font-montserat  lg:space-y-0 space-y-16",
+                            children: [(0, l.jsxs)("div", {
+                                "data-aos": "fade-right",
+                                className: "lg:w-1/2 w-full space-y-8",
+                                children: [(0, l.jsx)("h2", {
+                                    className: "md:text-6xl text-3xl font-extrabold text-gradient",
+                                    children: "Onchaintoolkit leverages TradingView technology"
+                                }), (0, l.jsx)("p", {
+                                    className: "md:text-2xl text-xl font-semibold text-purple-100",
+                                    children: "to display price charts. TradingView, a sophisticated platform designed for traders and investors, is supported with technologies that can be accessed via web browsers, desktop software, and mobile applications. It provides users with real-time data, such as the Dow Futures and  BTC USD Chart, the latest financial news, in-depth financial reports, a Stock screener and an Economic calendar."
+                                })]
+                            }), (0, l.jsxs)("div", {
+                                "data-aos": "zoom-in",
+                                className: "",
+                                children: [(0, l.jsx)("img", {
+                                    // src: r,
+                                    // alt: "Logo",
+                                    className: "sm:flex mx-auto absolute"
+                                }), (0, l.jsx)("img", {
+                                    src: IMGXX,
+                                    alt: "Logo",
+                                    className: "sm:flex mx-auto relative z-20 -translate-y-12 w-11/12"
+                                })]
+                            })]
+                        }),
+
+
+                        (0, l.jsxs)("div", {
                             className: "lg:pb-20 py-6",
                             children: [(0, l.jsx)("p", {
                                 className: "md:text-5xl text-3xl font-extrabold text-gradient text-center",

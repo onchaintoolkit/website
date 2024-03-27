@@ -49,7 +49,8 @@ export default function Home() {
         div className = "bg-blue-100 font-poppins overflow-hidden text-white-100 bg-grid" >
 
         <
-        div className = '' > { /* top section */ }
+        div className = '' > {
+            /* top section */ }
 
         <
         img data - aos = 'fade-up'
@@ -89,8 +90,8 @@ export default function Home() {
         <
         button className = "text-white-100 bg-purple-100 py-3 lg:px-8 px-4 font-semibold mt-3 rounded-xl" >
         Launch App <
-        /button> <
-        /a> <
+        /button> < /
+        a > <
         /div>
 
         <
@@ -123,8 +124,8 @@ export default function Home() {
         alt = "Logo"
         className = 'sm:flex mx-auto relative z-20 w-10/12' / >
         <
-        /div> <
-        /div>
+        /div> < /
+        div >
 
 
         <
@@ -161,26 +162,18 @@ export default function Home() {
         alt = "Logo"
         className = 'sm:flex mx-auto relative z-20 -translate-y-12 w-11/12' / >
         <
-        /div> <
-        /div>
+        /div> < /
+        div >
 
-        <
-        img src = {
-            line_1
-        }
-        alt = 'line'
-        className = 'absolute left-0 right-0 w-full -mt-24' > < /img>
-
-        <
-        div className = "lg:flex block justify-between items-center gap-x-12 lg:pb-12 pb-6 font-montserat  lg:space-y-0 space-y-8 relative z-20" >
-        <
-        div data - aos = "fade-right"
-        className = "lg:w-1/2 w-full" >
-        <
-        p className = 'md:text-3xl text-xl font-medium text-purple-100' >
-        Whether you 're a seasoned trader or insightful analyst the Onchain Toolkit provides the resources you need to succeed in the rapidly growing world of decentralized finance <
-        /p> <
-        /div>
+<img src={line_1} alt='line' className='absolute left-0 right-0 w-full -mt-24' />
+<div className='lg:flex block justify-between items-center gap-x-12 lg:pb-12 pb-6 font-montserat lg:space-y-0 space-y-8 relative z-20'>
+  <div data-aos='fade-right' className='lg:w-1/2 w-full'>
+    <h3 className='md:text-4xl text-2xl font-bold text-purple-100 mb-2'>Your Heading Here</h3>
+    <p className='md:text-3xl text-xl font-medium text-purple-100'>
+      'Whether you're a seasoned trader or insightful analyst, the Onchain Toolkit provides the resources you need to succeed in the rapidly growing world of decentralized finance'
+    </p>
+  </div>
+</div>
 
         <
         div data - aos = "zoom-in"
@@ -192,14 +185,15 @@ export default function Home() {
         alt = "Logo"
         className = 'sm:flex mx-auto' / >
         <
-        /div> <
-        /div>
+        /div> < /
+        div >
 
         <
-        /div> <
-        /div>
+        /div> < /
+        div >
 
-        { /* feature section */ }
+        {
+            /* feature section */ }
 
         <
         img src = {
@@ -232,8 +226,8 @@ export default function Home() {
         p className = 'md:text-2xl text-xl font-semibold' > AI Assistants < /p> <
         p className = 'text-white-50' >
         Enhance decision - making and market navigation with real - time market analysis, portfolio and risk management, alerts, and educational resources. <
-        /p> <
-        /div>
+        /p> < /
+        div >
 
         <
         div data - aos = 'fade-up'
@@ -245,8 +239,8 @@ export default function Home() {
         alt = '' > < /img> <
         p className = 'md:text-2xl text-xl font-semibold' > Crosschain Swaps < /p> <
         p className = 'text-white-50' >
-        Utilize LayerZero 's innovative solutions for direct cross-chain swaps, ensuring efficient and secure asset transfers across networks. <
-        /p> <
+        Utilize LayerZero 's innovative solutions for direct cross-chain swaps, ensuring efficient and secure asset transfers across networks. < /
+        p > <
         /div>
 
         <
@@ -260,8 +254,8 @@ export default function Home() {
         p className = 'md:text-2xl text-xl font-semibold' > Fiat On Ramp < /p> <
         p className = 'text-white-50' >
         Purchase cryptocurrencies directly with fiat through a secure gateway, using payment methods like credit cards and bank transfers. <
-        /p> <
-        /div> <
+        /p> < /
+        div > <
         div data - aos = 'fade-up'
         className = 'flex flex-col items-center justify-center text-center border border-white-50 rounded-xl px-6 py-8 h-96 gap-y-8 bg-blue-50' >
         <
@@ -273,8 +267,8 @@ export default function Home() {
         p className = 'text-white-50' >
         Place limit orders to execute at specified prices or more favorable rates, enabling precise entry and exit points
         for transactions. <
-        /p> <
-        /div>
+        /p> < /
+        div >
 
         <
         div data - aos = 'fade-up'
@@ -287,8 +281,8 @@ export default function Home() {
         p className = 'md:text-2xl text-xl font-semibold' > Contract / Token Scanner < /p> <
         p className = 'text-white-50' >
         Evaluate smart contracts and tokens by analyzing the blockchain, scanning transaction data, and code to assess integrity, security, and functionality. <
-        /p> <
-        /div>
+        /p> < /
+        div >
 
         <
         div data - aos = 'fade-up'
@@ -301,8 +295,8 @@ export default function Home() {
         p className = 'md:text-2xl text-xl font-semibold' > Multichain DEX Agregator < /p> <
         p className = 'text-white-50' >
         Access a larger pool of assets and trade seamlessly by combining liquidity from multiple decentralized exchanges across different blockchains. <
-        /p> <
-        /div> <
+        /p> < /
+        div > <
         /div>
 
         <
@@ -311,8 +305,8 @@ export default function Home() {
         p className = 'md:text-4xl text52xl font-semibold text-purple-100' >
         Your essential tool
         for navigating the decentralized finance(DeFi) landscape <
-        /p> <
-        /div>
+        /p> < /
+        div >
 
         <
         div data - aos = 'fade-up'
@@ -322,12 +316,12 @@ export default function Home() {
         data - aos - delay = '300'
         className = 'md:text-4xl text-lg font-semibold text-purple-50 lg:w-9/12 flex mx-auto' >
         Onchain Toolkit is more than just a tool it empowers users to navigate the complexities of decentralized exchanges with confidence and intelligence. <
-        /p> <
-        /div>
+        /p> < /
+        div >
 
         <
-        /div> <
-        /div>
+        /div> < /
+        div >
 
         <
         div className = 'lg:pb-20 py-6' >
@@ -377,12 +371,13 @@ export default function Home() {
         alt = 'partner'
         className = 'md:w-52' > < /img></li >
         <
-        /ul> <
-        /div> <
-        /div> <
-        /div>
+        /ul> < /
+        div > <
+        /div> < /
+        div >
 
-        { /* community section */ }
+        {
+            /* community section */ }
 
         <
         div id = 'community'
@@ -440,8 +435,8 @@ export default function Home() {
         <
         Footer / >
         <
-        /div> <
-        /div> <
+        /div> < /
+        div > <
         /div>
     )
 }

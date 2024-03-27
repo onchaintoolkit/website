@@ -823,8 +823,11 @@ video {
 
 .text-purple-100 {
     --tw-text-opacity: 1;
-    color: rgb(189 71 251/var(--tw-text-opacity));
+    color: rgb(86 210 86/var(--tw-text-opacity));
+    /* background-color: rgb(86, 210, 86); */
 }
+
+
 
 .text-purple-50 {
     --tw-text-opacity: 1;
@@ -1001,7 +1004,7 @@ html {
 
 .text-gradient {
     -webkit-text-fill-color: transparent;
-    background: linear-gradient(90deg, rgb(78, 39, 157) 4.3%, rgb(133, 97, 232) 35.68%, rgb(233, 135, 138)) text;
+    background: linear-gradient(90deg, rgb(39, 157, 65) 4.3%, rgb(97, 232, 135) 35.68%, rgb(135, 233, 141)) text;
 }
 
 .bg-dark-bottom {

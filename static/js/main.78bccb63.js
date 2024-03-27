@@ -1,4 +1,4 @@
-/*! For license information please see main.78bccb63.js.LICENSE.txt */ ! function() {
+! function() {
     var e = {
             945: function(e) {
                 e.exports = function(e) {
@@ -7670,7 +7670,7 @@
                     }) : null]
                 })
             }
-            var d = n.p + "static/media/img_1.9081aa23323b366b2e2d.png",
+            var d = n.p + "static/media/robo.gif",
                 f = n.p + "static/media/img_3.86f88ac0a71f083f4edb.png",
                 p = n.p + "static/media/bg-img.59a6d555f1cf3c729ca8.png",
                 m = n.p + "static/media/bg_img.ce2e30ec783055b54890.png",
@@ -7741,7 +7741,7 @@
                                             "data-aos-delay": "500",
                                             src: h,
                                             alt: "Logo",
-                                            className: "sm:flex mx-auto absolute z-30 -mt-10 -ml-5 md:w-36 w-28"
+                                            className: "sm:flex mx-auto absolute z-30 -mt-10 -ml-5 md:w-36 w-28 scale-150"
                                         }), (0, l.jsx)("img", {
                                             "data-aos": "zoom-in",
                                             "data-aos-delay": "500",
@@ -7962,41 +7962,6 @@
                             })
                         }),
 
-                        // (0, l.jsxs)("div", {
-                        //     className: "lg:flex block justify-between items-center flex-row-reverse gap-x-12 lg:py-20 py-6 pb-100 font-montserat  lg:space-y-0 space-y-16",
-                        //     children: [
-                                
-                        //         (0, l.jsxs)("div", {
-                        //         "data-aos": "fade-right",
-                        //         className: "lg:w-1/2 w-full space-y-8",
-                        //         children: [(0, l.jsx)("h2", {
-                        //             className: "md:text-6xl text-3xl font-extrabold text-center	text-gradient",
-                        //             children: "𝗢𝗻𝗰𝗵𝗮𝗶𝗻 𝗧𝗼𝗼𝗹𝗸𝗶𝘁"
-                        //         }), 
-                                
-                        //         (0, l.jsx)("p", {
-                        //             className: "md:text-2xl text-xl font-semibold text-white-100",
-                        //             children: "Is more than just a tool it empowers users to navigate the complexities of decentralized exchanges with confidence and intelligence."
-                        //         })
-                        //     ]
-                        //     }), 
-
-
-                        //     (0, l.jsxs)("div", {
-                        //         "data-aos": "zoom-in",
-                        //         className: "",
-                        //         children: [(0, l.jsx)("img", {
-                        //             src: f,
-                        //             alt: "Logo",
-                        //             className: "sm:flex mx-auto absolute"
-                        //         }), (0, l.jsx)("img", {
-                        //             src: emp,
-                        //             alt: "Logo",
-                        //             className: "sm:flex mx-auto relative z-20 -translate-y-12 w-11/12"
-                        //         })]
-                        //     })]
-                        // }),
-                        
                         (0, l.jsxs)("div", {
                             className: "lg:flex block justify-centre items-center flex-row-reverse gap-x-12 lg:py-0 py-4 font-montserat lg:space-y-0 space-y-16",
                             children: [(0, l.jsxs)("div", {

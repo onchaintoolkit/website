@@ -974,6 +974,26 @@ html {
     scroll-behavior: smooth;
 }
 
+
+
+
+
+
+.powered-by{
+    padding-top: 8rem;
+}
+
+.logo_slider{
+    padding-bottom: 8rem;
+}
+
+.tradingview{
+    width: 60%;
+}
+
+
+
+
 .bg_feature {
     background-image: url("/static/media/bg_feature.d9dc052f475207d3d0c6.png");
 }

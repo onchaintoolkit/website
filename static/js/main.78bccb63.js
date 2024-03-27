@@ -7806,11 +7806,11 @@
                                         "data-aos": "zoom-in",
                                         className: "",
                                         children: [(0, l.jsx)("img", {
-                                            src: f,
+                                            src: emp,
                                             alt: "Logo",
                                             className: "sm:flex mx-auto absolute"
                                         }), (0, l.jsx)("img", {
-                                            src: emp,
+                                            src: f,
                                             alt: "Logo",
                                             className: "sm:flex mx-auto relative z-20 -translate-y-12 w-11/12"
                                         })]
@@ -8006,7 +8006,7 @@
                                     className: "md:text-6xl text-3xl text-center font-extrabold text-gradient",
                                     children: "Onchaintoolkit leverages TradingView technology"
                                 }), (0, l.jsx)("p", {
-                                    className: "md:text-2xl text-xl lg:w-1/2 mx-auto text-center text-xs font-light text-white-100",
+                                    className: "tradingview md:text-2xl text-xl lg:w-1/2 mx-auto text-center text-xs font-light text-white-100",
                                     children: "TradingView, a sophisticated platform designed for traders and investors, is supported with technologies that can be accessed via web browsers, desktop software, and mobile applications. It provides users with real-time data, such as the Dow Futures and BTC USD Chart, the latest financial news, in-depth financial reports, a Stock screener and an Economic calendar."
                                 })]
                                 
@@ -8025,12 +8025,16 @@
                                 })]
                             })]
                         }),
+
+
+                        
                         
 
                         (0, l.jsxs)("div", {
-                            className: "lg:pb-20 py-6",
+                            className: "lg:pb-32 py-20",
                             children: [(0, l.jsx)("p", {
-                                className: "md:text-5xl text-3xl font-extrabold text-gradient text-center",
+                                className: "powered-by md:text-5xl mt-14 text-3xl font-extrabold text-gradient text-center pt-5",
+                                
                                 children: "Powered By"
                             }), (0, l.jsx)("div", {
                                 className: "logo lg:mt-16 mt-8",

@@ -7634,16 +7634,7 @@
                             onClick: function() {
                                 return r(!n)
                             },
-                            href: "/",
-                            children: (0, l.jsx)("div", {
-                                className: "text-lg ml-4 mt-8 font-semibold",
-                                children: "Why us"
-                            })
-                        }), (0, l.jsx)("a", {
-                            onClick: function() {
-                                return r(!n)
-                            },
-                            href: "/",
+                            href: "https://onchaintoolkit.gitbook.io/onchain-dex-terminal-overview",
                             children: (0, l.jsx)("div", {
                                 className: "text-lg ml-4 mt-8 font-semibold",
                                 children: "Whitepaper"

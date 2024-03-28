@@ -676,17 +676,18 @@ video {
 
 .bg-blue-100 {
     --tw-bg-opacity: 1;
-    background-color: rgb(19 3 25/var(--tw-bg-opacity));
+    background-color: rgb(5 21 3/var(--tw-bg-opacity));
 }
 
 .bg-purple-100 {
     --tw-bg-opacity: 1;
-    background-color: rgb(189 71 251/var(--tw-bg-opacity));
+    background-color: rgb(33 226 98/var(--tw-bg-opacity));
 }
 
 .bg-blue-50 {
     --tw-bg-opacity: 1;
-    background-color: rgb(21 10 25/var(--tw-bg-opacity));
+    background-color: rgb(10 25 12/var(--tw-bg-opacity));
+    /* color: rgb(10, 25, 12); */
 }
 
 .bg-top {
@@ -989,9 +990,14 @@ html {
 
 .tradingview{
     width: 60%;
+    color: #aaaaaa;
 }
 
-
+@media only screen and (max-width: 600px) {
+    .tradingview{
+        width: 90%;
+    }
+  }
 
 
 .bg_feature {
@@ -1015,11 +1021,11 @@ html {
 }
 
 .btn-gradient {
-    background: linear-gradient(90deg, rgb(39, 69, 234) 2.94%, rgb(207, 123, 244));
+    background: linear-gradient(90deg, rgb(39, 234, 98) 2.94%, rgb(123, 244, 129));
 }
 
 .bg-gradient {
-    background: linear-gradient(265.6deg, rgb(221, 91, 239) 0.26%, rgb(78, 6, 88) 99.5%);
+    background: linear-gradient(265.6deg, rgb(91, 239, 123) 0.26%, rgb(6, 88, 17) 99.5%);
 }
 
 .text-gradient {
@@ -1028,7 +1034,7 @@ html {
 }
 
 .bg-dark-bottom {
-    background: linear-gradient(359.43deg, rgb(27, 0, 37) 11.06%, rgba(11, 29, 51, 0) 99.43%);
+    background: linear-gradient(359.43deg, rgb(0, 37, 5) 11.06%, rrgba(16, 51, 11, 0)99.43%);
 }
 
 .border-gradient {

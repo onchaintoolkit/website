@@ -1045,6 +1045,10 @@ html {
     background: linear-gradient(90deg, rgb(39, 157, 65) 4.3%, rgb(97, 232, 135) 35.68%, rgb(135, 233, 141)) text;
 }
 
+.text-underline{
+    text-decoration-line: underline;
+    text-decoration-color: rgb(39, 157, 65);
+}
 .bg-dark-bottom {
     background: linear-gradient(359.43deg, rgb(0, 37, 5) 11.06%, rrgba(16, 51, 11, 0)99.43%);
 }

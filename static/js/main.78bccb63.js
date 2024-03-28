@@ -7966,14 +7966,22 @@
                             className: "lg:flex block justify-centre items-center flex-row-reverse gap-x-12 lg:py-0 py-4 font-montserat lg:space-y-0 space-y-16",
                             children: [(0, l.jsxs)("div", {
                                 "data-aos": "fade-right",
-                                className: "lg:w-full space-y-8",
+                                className: "lg:w-full space-t-8",
                                 children: [(0, l.jsx)("h2", {
                                     className: "md:text-6xl text-3xl text-center font-extrabold text-gradient",
                                     children: "Onchaintoolkit leverages TradingView technology"
                                 }), (0, l.jsx)("p", {
+                                    className: "tradingview md:text-2xl mt-8 text-xl lg:w-1/2 mx-auto text-center text-xs font-light text-white-100",
+                                    children: "TradingView, a sophisticated platform designed for traders and investors, is supported with technologies that can be accessed via web browsers, desktop software, and mobile applications. It provides users with real-time data, such as the Dow Futures and "
+                                }),(0, l.jsx)("a", {
+                                    href:"https://www.tradingview.com/symbols/BTCUSD/",
+                                    className: "tradingview flex items-center justify-center md:text-2xl text-xl lg:w-1/2 mx-auto text-center text-xs font-dark text-gradient text-underline",
+                                    children: "BTC USD Chart"
+                                }), (0, l.jsx)("p", {
                                     className: "tradingview md:text-2xl text-xl lg:w-1/2 mx-auto text-center text-xs font-light text-white-100",
-                                    children: "TradingView, a sophisticated platform designed for traders and investors, is supported with technologies that can be accessed via web browsers, desktop software, and mobile applications. It provides users with real-time data, such as the Dow Futures and BTC USD Chart, the latest financial news, in-depth financial reports, a Stock screener and an Economic calendar."
-                                })]
+                                    children: ", the latest financial news, in-depth financial reports, a Stock screener and an Economic calendar."
+                                })
+                            ]
                                 
                             }), 
                             (0, l.jsxs)("div", {

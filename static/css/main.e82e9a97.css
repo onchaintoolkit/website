@@ -976,7 +976,9 @@ html {
 }
 
 
-
+.mainhead{
+    font-size: 3rem;
+}
 
 
 
@@ -997,6 +999,16 @@ html {
     .tradingview{
         width: 90%;
     }
+
+    
+.mainhead{
+    font-size: 2rem;
+}
+
+.ologo{
+    padding-top: 1rem;
+}
+
   }
 
 

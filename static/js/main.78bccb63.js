@@ -7710,7 +7710,7 @@
                                         "data-aos": "fade-right",
                                         className: "lg:w-1/2 w-full",
                                         children: [(0, l.jsx)("h1", {
-                                            className: "md:text-6xl text-3xl font-bold text-white-100",
+                                            className: "md:text-6xl mainhead text-3xl font-bold text-white-100",
                                             children: "The First Multichain Trading Ecosystem"
                                         }), (0, l.jsx)("p", {
                                             className: "py-6 text-white-50 font-inter",
@@ -7779,7 +7779,7 @@
                                         }), (0, l.jsx)("img", {
                                             src: r,
                                             alt: "Logo",
-                                            className: "sm:flex mx-auto relative z-20 -translate-y-12 w-11/12"
+                                            className: "sm:flex mx-auto ologo relative z-20 -translate-y-12 w-11/12"
                                         })]
                                     })]
                                 }), 

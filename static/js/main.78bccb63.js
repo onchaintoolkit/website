@@ -7732,7 +7732,7 @@
                                             "data-aos-delay": "500",
                                             src: h,
                                             alt: "Logo",
-                                            className: "sm:flex mx-auto absolute z-30 -mt-10 -ml-5 md:w-36 w-28 scale-150"
+                                            className: "sm:flex mx-auto absolute z-30 -mt-4 ml-4 md:ml-10  md:w-36 w-28 scale-150"
                                         }), (0, l.jsx)("img", {
                                             "data-aos": "zoom-in",
                                             "data-aos-delay": "500",

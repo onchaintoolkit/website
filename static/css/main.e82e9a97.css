@@ -490,6 +490,10 @@ video {
     margin-left: 1rem;
 }
 
+.ml-10{
+    margin-left: 4rem;
+}
+
 .block {
     display: block;
 }
@@ -867,6 +871,9 @@ video {
     }
     .md\:gap-x-20 {
         column-gap: 5rem;
+    }
+    .md\:ml-10{
+        margin-left: 4rem;
     }
     .md\:space-y-16> :not([hidden])~ :not([hidden]) {
         --tw-space-y-reverse: 0;
